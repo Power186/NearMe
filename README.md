@@ -1,5 +1,9 @@
 # NearMe
 
+![first](first.PNG) ___
+![second](second.PNG) ___
+![third](third.PNG)
+
 ## Built with:
 * Swift
 * SwiftUI
